@@ -1,0 +1,2 @@
+#sample
+Print ("Hello Child")
